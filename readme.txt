@@ -1,2 +1,2 @@
-this is a new test for github
+this is a new try for github
 Git is free software.
